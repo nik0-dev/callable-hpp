@@ -1,7 +1,7 @@
 ### An Introduction to Callables
 ___
 ```
-Designed and inspired with Godot Engine callables in mind to store functions as variables simply.
+Designed and inspired with Godot Engine callables in mind to store functions as variables in a simple way.
 ```
 
 ### Examples
